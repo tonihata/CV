@@ -19,10 +19,10 @@ Tähän mennessä olen lähinnä opetellut Pythonia.
 [Äänitasomittari](https://github.com/tonihata/Aanitasomittari)
 
 ## Koulutus
-Tieto- ja viestintätekniikan perustutkinto
-Ohjelmistokehittäjä
-Ammattiopisto Luovi
-1/2024 - 2026 (käynnissä)
+Tieto- ja viestintätekniikan perustutkinto  
+Ohjelmistokehittäjä  
+Ammattiopisto Luovi  
+1/2024 - 2026 (käynnissä)  
 
 ## Kielet
 - Suomi (Äidinkieli)
