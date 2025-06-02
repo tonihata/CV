@@ -5,7 +5,7 @@ Ohjelmistokehityksen opiskelija
 Oulu, Suomi  
 tonihata@gmail.com  
 
-Olen innokas ohjelmistokehityksen opiskelija, joka tykkää opetella uusia asioita.
+Olen innokas ohjelmistokehityksen opiskelija, joka tykkää opetella uusia asioita.  
 Tähän mennessä olen lähinnä opetellut Pythonia.
 
 ## Taitoalueet
