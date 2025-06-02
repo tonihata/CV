@@ -10,7 +10,7 @@ Tähän mennessä olen lähinnä opetellut Pythonia.
 
 ## Taitoalueet
 - Python, Flask
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, PHP
 - SQL
 - C
 - Github
